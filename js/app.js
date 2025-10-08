@@ -27,7 +27,6 @@ const boardEl = document.querySelector('#board');
 const squareEls = document.querySelectorAll('.sqr');
 const messageEl = document.querySelector('#message');
 const resetEl = document.querySelector('#reset');
-console.debug('Caching DOM selectors completed')
 
 /*-------------------------------- Functions --------------------------------*/
 
