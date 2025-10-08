@@ -117,4 +117,7 @@ boardEl.addEventListener('click', (event) => {
 
 resetEl.addEventListener('click', () => {init()});
 
+
+/*----------------------------- Initialize all -----------------------------*/
+
 init()
